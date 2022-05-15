@@ -1,0 +1,3 @@
+[submodule "github-upload"]
+	path = github-upload
+	url = https://github.com/ZiadNouh/markdown-portfolio.git
